@@ -1,0 +1,16 @@
+D:\webmusic\music\DAL\bin\Release\DAL.dll
+D:\webmusic\music\DAL\bin\Release\DAL.pdb
+D:\webmusic\music\DAL\bin\Release\AspNetPager.dll
+D:\webmusic\music\DAL\bin\Release\Model.dll
+D:\webmusic\music\DAL\bin\Release\Model.pdb
+D:\webmusic\music\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\webmusic\music\DAL\obj\Release\DAL.dll
+D:\webmusic\music\DAL\obj\Release\DAL.pdb
+D:\我的文件\软件项目\webmusic\music\DAL\bin\Release\DAL.dll
+D:\我的文件\软件项目\webmusic\music\DAL\bin\Release\DAL.pdb
+D:\我的文件\软件项目\webmusic\music\DAL\bin\Release\AspNetPager.dll
+D:\我的文件\软件项目\webmusic\music\DAL\bin\Release\Model.dll
+D:\我的文件\软件项目\webmusic\music\DAL\bin\Release\Model.pdb
+D:\我的文件\软件项目\webmusic\music\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\我的文件\软件项目\webmusic\music\DAL\obj\Release\DAL.dll
+D:\我的文件\软件项目\webmusic\music\DAL\obj\Release\DAL.pdb

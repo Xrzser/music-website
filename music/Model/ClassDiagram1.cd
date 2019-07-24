@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.Model.Modeladministrators">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAIAAAA=</HashCode>
+      <FileName>Model\Modeladministrators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modelfavorite">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACACAA=</HashCode>
+      <FileName>Model\Modelfavorite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modelmusicinfo">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAEAAAAEAQAAAAAAAgAAwgAAAECAAABA=</HashCode>
+      <FileName>Model\Modelmusicinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modelrecommend">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAQEAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Modelrecommend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modelsinger">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgACAAAAAAAAFAAAgAAAAAAAAgAAAAAAQAAAAAA=</HashCode>
+      <FileName>Model\Modelsinger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modelsongsheets">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAIAAAAAAAAAAAAAAAAAAIAAAgACAAAAAAAQA=</HashCode>
+      <FileName>Model\Modelsongsheets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modeluser">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAEAAAg=</HashCode>
+      <FileName>Model\Modeluser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Model.Modeluserinfo">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQgACAAAAECAAAAAAAAAABgAAAAEAgA=</HashCode>
+      <FileName>Model\Modeluserinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

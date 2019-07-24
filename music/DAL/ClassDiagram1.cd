@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAL.DAL.Conn" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>DAL\Conn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Dalfavorite" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAgAAIAAAQAAQIAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>DAL\Dalfavorite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Daladministrators" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAIAAIgAAAQAAAAAAACIAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Daladministrators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Dalmusicinfo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAgAACAAAgEAAAEACQQAJAAAACAAAAAAAAE=</HashCode>
+      <FileName>DAL\Dalmusicinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Dalrecommend" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACgAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>DAL\Dalrecommend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Dalsinger" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAgAAAAAACEAgAAAQAAAAAAAABAACAAAA=</HashCode>
+      <FileName>DAL\Dalsinger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Dalsongsheets" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAASAEAEAAAAABAAAAAABQAAQAAAAAAAAAAAQA=</HashCode>
+      <FileName>DAL\Dalsongsheets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Daltime" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Daltime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Daltools" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAAAAAAAAAAAAAAAAQAAAABAACAAAAAAAA=</HashCode>
+      <FileName>DAL\Daltools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Daluser" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABgABAAAAFCEEAAEAAAAAAAQAAAAAQQAAAgAAAAA=</HashCode>
+      <FileName>DAL\Daluser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.DAL.Daluserinfo" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAABAQAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL\Daluserinfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

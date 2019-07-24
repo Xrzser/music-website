@@ -1,0 +1,11 @@
+D:\webmusic\music\Model\bin\Debug\Model.dll
+D:\webmusic\music\Model\bin\Debug\Model.pdb
+D:\webmusic\music\Model\bin\Debug\AspNetPager.dll
+D:\webmusic\music\Model\obj\Debug\Model.dll
+D:\webmusic\music\Model\obj\Debug\Model.pdb
+D:\我的文件\软件项目\webmusic\music\Model\bin\Debug\Model.dll
+D:\我的文件\软件项目\webmusic\music\Model\bin\Debug\Model.pdb
+D:\我的文件\软件项目\webmusic\music\Model\bin\Debug\AspNetPager.dll
+D:\我的文件\软件项目\webmusic\music\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\我的文件\软件项目\webmusic\music\Model\obj\Debug\Model.dll
+D:\我的文件\软件项目\webmusic\music\Model\obj\Debug\Model.pdb
